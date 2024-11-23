@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Tawaun A. Lucas
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Tawaun
+last_name: Lucas
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,92 +20,82 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Postdoctoral Fellow
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Genentech, Inc.
+    url: https://gene.com/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:lucas.tawaun@gene.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/LucasTawaun
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/tawaunl
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/tawaun-lucas
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.com/citations?user=IPSYij4AAAAJ&hl=en&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-2273-270X
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Bioinformatics
+  - Neuroimmunology/Neurodegeneration
+  - Glia
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: PhD Neurosciences
     institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2015-08-01
+    date_end: 2021-02-14
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on Spleen Glia. Supervised by [Marion Buckwalter](https://med.stanford.edu/buckwalter-lab.html). Culminated in 4 publications and presentations in 5 international conferences.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.8/4.0
+      url: 'https://drive.google.com/file/d/1hP-ansGRFCrGhM0_ogd8Lw3la95dpAOc/view?usp=sharing'
 
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: BA Psychology (Honors)
+    institution: California State University, Northridge
+    date_start: 2009-08-01
+    date_end: 2014-05-14
     summary: |
-      GPA: 3.4/4.0
+      Student Athlete (Track & Field)
       
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      
+
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
+  - position: Postdoctoral Fellow
+    company_name: Genentech
+    company_url: 'www.gene.com'
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2021-05-07
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
+      - Conducted meta-analysis to investigate disease-associated subtypes of astrocytes using single-cell and spatial transcriptional data
+      - Generated spatial transcriptomics data to complement single-cell omics analysis
+      - Investigated cellular diversity of tumor microenvironments through gene expression and chromatin accessibility changes in lung
+      - Conducted analysis for single-cell Perturb-seq (CROP-seq) screen in mouse BMDMs
+  - position: Graduate Researcher
+    company_name: Stanford University - Buckwalter Lab
+    company_url: 'https://med.stanford.edu/buckwalter-lab.html'
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2015-09-01
+    date_end: 2021-02-14
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Investigated peripheral glia in the spleen and their role in neuroimmune communication
+      - Generated and analyzed transcriptomic data of spleen glia and other glial types
+      - Established and implemented a replicable RNA-seq analysis pipeline for the lab
+      - Developed a web-based Shiny app to explore and visualize datasets produced in the lab
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
