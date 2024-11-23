@@ -99,41 +99,6 @@ work:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-    - name: 'R'
-        description: ''
-        percent: 100
-        icon: code-bracket
-    - name: Linux
-        description: ''
-        percent: 85
-        icon: code-bracket
-      - name: Python
-        description: ''
-        percent: 70
-        icon: code-bracket
-      - name: Molecular Biology
-        description: ''
-        percent: 85
-        icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Bodybuilding
-        description: ''
-        percent: 100
-        icon: 💪🏾
-      - name: Cinematography
-        description: ''
-        percent: 80
-        icon: 🎥
-      - name: Dancing
-        description: ''
-        percent: 75
-        icon: 🕺🏾
 
 languages:
   - name: English
