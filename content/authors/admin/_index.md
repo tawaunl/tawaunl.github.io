@@ -102,75 +102,64 @@ work:
 skills:
   - name: Technical Skills
     items:
-      - name: Python
-        description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Data Science
+    - name: R
         description: ''
         percent: 100
-        icon: chart-bar
-      - name: SQL
+        icon: code-bracket
+    - name: Linux
         description: ''
-        percent: 40
+        percent: 85
+        icon: code-bracket
+      - name: Python
+        description: ''
+        percent: 70
+        icon: code-bracket
+      - name: Molecular Biology
+        description: ''
+        percent: 85
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
+      - name: Bodybuilding
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: 💪🏾
+      - name: Cinematography
         description: ''
         percent: 80
-        icon: camera
+        icon: 🎥
+      - name: Dancing
+        description: ''
+        percent: 75
+        icon: 🕺🏾
 
 languages:
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Spanish
+    percent: 50
+  - 
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
+  - title: Graduate Research Fellowship Program (GRFP)
+    url: https://www.nsfgrfp.org/
+    date: '2015-04-25'
+    awarder: National Science Foundation (NSF)
     icon: coursera
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      The purpose of the NSF Graduate Research Fellowship Program (GRFP) is to help ensure the quality, vitality, and diversity of the scientific and engineering workforce of the United States. The program recognizes and supports outstanding graduate students who are pursuing full-time research-based master's and doctoral degrees in science, technology, engineering, and mathematics (STEM) or in STEM education. The GRFP provides three years of support over a five-year fellowship period for the graduate education of individuals who have demonstrated their potential for significant research achievements in STEM or STEM education. 
+  - title: Excellence in Diversity and Societal Citizenship	
+    date: '2015-05-01'
+    awarder: Stanford Biosciences
+  
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Tawaun Lucas is a Postdoctoral Research Fellow at Genentech specializing in bioinformatic analyses at the intersection of neuroscience and immunology. Outside of science, he is an amateur bodybuilder who loves going out to dance and participating in activities that require him to be physically fit. Tawaun also enjoys spending time mentoring and teaching younger scientists, fostering their growth and development in the field.
