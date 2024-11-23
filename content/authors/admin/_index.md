@@ -102,7 +102,7 @@ work:
 skills:
   - name: Technical Skills
     items:
-    - name: R
+    - name: 'R'
         description: ''
         percent: 100
         icon: code-bracket
